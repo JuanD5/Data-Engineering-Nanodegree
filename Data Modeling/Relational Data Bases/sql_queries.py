@@ -5,7 +5,6 @@ user_table_drop = "DROP table IF EXISTS users"
 song_table_drop = "DROP table IF EXISTS songs"
 artist_table_drop = "DROP table IF EXISTS artists"
 time_table_drop = "DROP table IF EXISTS time"
-
 # CREATE TABLES
 
 songplay_table_create = (""" CREATE TABLE IF NOT EXISTS songplays (
